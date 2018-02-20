@@ -1,6 +1,4 @@
 #!/bin/bash
 
-cd ..
+cd /home/thewrightjoshua/
 mkdir test
-cd test
-echo "testing echo command"

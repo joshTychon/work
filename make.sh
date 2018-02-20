@@ -1,5 +1,4 @@
 #!/bin/bash
 
-cd /home/thewrightjoshua/test/
-
-mkdir joshFile
+cd /home/thewrightjoshua
+rmdir test

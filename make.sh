@@ -2,9 +2,4 @@
 
 cd /home/thewrightjoshua/test/
 
-rmdir test2
-
-mkdir test3
-mkdir test4
-
-echo "done!"
+mkdir joshFiles

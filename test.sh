@@ -1,2 +1,6 @@
 #!/bin/bash
-mkdir testDir
+
+cd ..
+mkdir test
+cd test
+echo "testing echo command"

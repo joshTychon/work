@@ -2,4 +2,4 @@
 
 cd /home/thewrightjoshua/test/
 
-mkdir joshFiles
+mkdir joshFile

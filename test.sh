@@ -1,4 +1,3 @@
 #!/bin/bash
 
-cd /home/thewrightjoshua/
-mkdir test
+echo "test!"

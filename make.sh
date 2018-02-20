@@ -2,4 +2,9 @@
 
 cd /home/thewrightjoshua/test/
 
-mkdir test2
+rmdir test2
+
+mkdir test3
+mkdir test4
+
+echo "done!"

@@ -2,4 +2,4 @@
 
 cd /home/thewrightjoshua
 
-mkdir testingdir
+echo "This is a test" > test.txt

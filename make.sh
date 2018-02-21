@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /home/azureuser
+cd /home/azureuse
 echo "This is a test" > testpage.txt
 mkdir testdir

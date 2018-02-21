@@ -1,5 +1,4 @@
 #!/bin/bash
-
-cd /home/thewrightjoshua
-
-echo "This is a test" > test.txt
+cd /home/test
+echo "This is a test" > testpage.txt
+mkdir testdir
